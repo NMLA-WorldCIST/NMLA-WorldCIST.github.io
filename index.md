@@ -1,16 +1,21 @@
+<!---
 ---
 layout: default
 ---
 
-[//]: # Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[//]: # [Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
+
+-->
 
 ## Overview
 
+<!---
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+-->
 
 Networks are ubiquitous in many real-life domains and applications: basically whenever/wherever there exists a relationship between two entities, we can talk about networks. The type of entities can be people (in which case we talk about social networks), proteins (biological networks), computers/routers/printers (computer networks), railway stations (transportation networks), etc. Entities can 
 be characterized by their attributes (attributed networks), can be of different types (heterogeneous), can appear/disappear/change (them or their relations) over time (dynamic) etc.
@@ -24,24 +29,72 @@ Second, generating ad hoc/hand-crafted features based on the network structure o
 
 Third, network analysis has demonstrated many benefits and provided many valuable insights in different application areas. However, growing amounts of data and appearance of different types of networks and underlying latent aspects, forces researchers to constantly innovate and adjust their perspectives on apparently known problems. Topics of interest in this stream range from discovering interesting patterns, detecting communities, via sampling and evaluation to network alignment, summarization and visualization.
 
-_italic_List of topics (not exclusive): 
+
+_List of topics (not exclusive)_: 
 
 * Network	modeling
+
 * Discovering	interesting	patterns/roles in	the	networks
+
 * Algorithms and methods for analyzing attributed/heterogeneous/signed/multiplex and knowledge networks	
+
 * Network	clustering methods and	applications
+
 * Network	representation learning methods	and	applications
+
 * Methods	for	analyzing	and	learning on dynamic	networks
+
 * Large-scale	network	analysis and learning
+
 * Semi-supervised	learning, inductive	learning on networks
+
 * Networks sampling, simulation and evaluation challenges and solutions
+
 * Network	alignment	
+
 * Network	compression/summarization
+
 * Network	visualization
+
 * Case studies and empirical studies in different	application	areas, e.g.	telco, finance, IoT, social	media, social	good,	retail,	biology,	political	sciences,	etc.
 
+## Important Dates
+
+Submission: November 30, 2019 
+
+Notification: December 20, 2019
+
+Camera-ready: January 8, 2020 (hard deadline because of Springer publishing deadlines)
+
+Workshop date: TBD
+
+Conference dates: April 7-10, 2020
 
 ## Submission
+
+Two types of papers can be submitted to NMLA workshop (both will be published at the Springer AISC proceedings):
+
+* Full papers: Finished or consolidated R&D works. These papers are assigned a 10-page limit.
+
+* Short papers: Finished or consolidated R&D works and also ongoing work but with relevant preliminary results, open to discussion. These papers are assigned a 7-page limit.
+
+Submissions must be in PDF, written in English and must follow the formatting rules for Proceedings in Advances in Intelligent Systems and Computing Series (see Instructions for Authors at Springer Website).
+
+<!---
+The version of papers for evaluation by the Program Committee, saved in PDF format, must not include identification, e-mail and affiliation of the authors. This information must only be available in the camera-ready version of accepted papers, saved in Word or Latex format and also in PDF format. 
+
+To submit or upload a paper please go to: 
+-->
+
+
+All workshop papers will have three independent blind reviews or in special cases two independent, non-conflicting and detailed reviews.
+
+Accepted full and short papers will be included in the workshop proceedings. In order to be published, as in the main conference, workshop papers must be registered and presented at the conference. 
+<!---
+Camera-ready version of accepted papers must include identification, e-mail and affiliation of the authors and it must be accompanied by the Consent to Publish form filled out, in a ZIP file, and uploaded at the conference management system.
+-->
+
+The workshop proceedings will be published by Springer in a book of the AISC series. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, EI-Compendex among several other scientific databases. Extended versions of best selected papers will be published in journals indexed by ISI/SCI, SCOPUS and DBLP. Detailed and up-to-date information may be found at WorldCist'20 website: http://www.worldcist.org/
 
 
 ## Program
@@ -52,19 +105,52 @@ TBA
 
 ## Organizers
 Sandra	Mitrović, KU Leuven, Belgium
+
 Jochen De Weerdt, KU Leuven, Belgium
+
 Steven Skiena, Stony Brook University, NY, USA
+
 Huan Liu, Arizona State University, AZ, USA
 
 # Committee
+<!---
+Rémy Cazabet,	Université	de	Lyon,	France
+-->
+
+<!---
+Huijuan	Wang,	Delft	University	of	Technology,	The	Netherlands
+Mohammad	Al	Hasan,	Purdue	University,	IN,	USA
+Eric	Cambria,	Nanyang	Technoological	University,	Singapore
+Aleksandar	Bojchevski,	Technical	University	Munich,	Germany
+Roy	Ka-Wei	Lee,	University	of	Saskatchewan,	Canada
+Martin	Atzmueller,	Tilburg	University,	The	Netherlands
+Leto	Peel,	Univesite	Catholique	de	Louvain,	Belgium
+Brian	Keegan,	University	of	Colorado	Boulder,	CO,	USA
+Palash	Goyal,	University	of	Southern	California,	CA,	USA
+Barbara	Poblete,	University	of		Chile,	Chile
+Davide	Mottin,	Aarhus	University,		Denmark
+Aris	Anagnostopoulos,	Sapienza	University	of	Rome,	Italy
+Jan	Ramon,	INRIA,	France
+Hocine	Cherifi,	University	of	Burgundy,	France
+Polina	Rosenshtein,	Aalto	University,	Finland
+Junting	Ye, Facebook,	CA,	USA
+Nicolas	Kourtellis,	Telefonica	Research,	Spain
+Sanja	Šćepanović,	Bell Labs	Cambridge,	UK	
+Zhana	Kuncheva,	C4X	Discovery,	London,	UK
+Roya	Imani	Giglou,	KU	Leuven,	Belgium
+Sanja	Brdar,	University	of	Novi	Sad,	Serbia
+-->
 TBA
 
 ## Venue
 Budva, Montenegro
 
+NMLA 2020 (and WorldCIST'20) will take place at 5-star Hotel Splendid Conference & SPA Resort, located in Bečići – a picturesque bay with the cleanest waters, surrounded by a coniferous forest and beautiful mountains. A seaside promenade connects it with Budva, the old town, while its restaurants and nightclubs are only 2 km away.
+For more information see: http://www.worldcist.org/index.php/venue)
+
 
 ## Contact
-mailto: NMLA-WorldCIST@gmail.com
+E-mail: NMLA-WorldCIST@gmail.com
 
 <!---
 ### Header 3
@@ -161,7 +247,7 @@ end
 <dd>Green</dd>
 </dl>
 
--->
+
 
 
 ```
@@ -171,3 +257,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
