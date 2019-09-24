@@ -2,17 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[//]: # Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[//]: # [Link to another page](./another-page.html).
 
 ## Overview
 
@@ -20,6 +12,61 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+Networks are ubiquitous in many real-life domains and applications: basically whenever/wherever there exists a relationship between two entities, we can talk about networks. The type of entities can be people (in which case we talk about social networks), proteins (biological networks), computers/routers/printers (computer networks), railway stations (transportation networks), etc. Entities can 
+be characterized by their attributes (attributed networks), can be of different types (heterogeneous), can appear/disappear/change (them or their relations) over time (dynamic) etc.
+
+Lately, quite extensive research focus has been put in different directions related to studying different types of networks and various research problems and challenges associated with them. This workshop focuses on three such directions.
+
+First, it is important to understand the role of network modeling (also known as network design or network engineering). Although the 
+majority of real life problems relate to network data, this does not necessary mean that the actual data is provided in the form of a network. This frequently requires transforming implicitly given network data into an explicit network and that does not necessarily mean that this transformation is always a unique one. In those cases, opting for a particular choice to model a network could significantly influence the outcome. Furthermore, modeling a network in a most straightforward way does not have to be the most optimal solution. Therefore, we seek for solutions which propose creative yet effective network models for solving particular applications. 
+
+Second, generating ad hoc/hand-crafted features based on the network structure or attributes is slowly but steadily fading away. Instead, there is a tremendously increasing tendency of performing network featurization in an automated way, primarily using representation learning methods. The latter attempt at learning representations of different parts of network: nodes, edges, sub-networks or even entire networks, typically with the goal of using learnt representation for downstream tasks such as node classification, link prediction or graph completion. However, despite a growing number of studies, research community is still facing a number of challenges e.g. how to learn the high quality representations in an efficient way on extremely large networks. Additionally, different network types bring along different challenges. Papers not only proposing novel algorithms and methods for addressing these challenges but also shedding light on how learnt representations could be used in concrete applications are of particular interest in this workshop. 
+
+Third, network analysis has demonstrated many benefits and provided many valuable insights in different application areas. However, growing amounts of data and appearance of different types of networks and underlying latent aspects, forces researchers to constantly innovate and adjust their perspectives on apparently known problems. Topics of interest in this stream range from discovering interesting patterns, detecting communities, via sampling and evaluation to network alignment, summarization and visualization.
+
+_italic_List of topics (not exclusive): 
+
+* Network	modeling
+* Discovering	interesting	patterns/roles in	the	networks
+* Algorithms and methods for analyzing attributed/heterogeneous/signed/multiplex and knowledge networks	
+* Network	clustering methods and	applications
+* Network	representation learning methods	and	applications
+* Methods	for	analyzing	and	learning on dynamic	networks
+* Large-scale	network	analysis and learning
+* Semi-supervised	learning, inductive	learning on networks
+* Networks sampling, simulation and evaluation challenges and solutions
+* Network	alignment	
+* Network	compression/summarization
+* Network	visualization
+* Case studies and empirical studies in different	application	areas, e.g.	telco, finance, IoT, social	media, social	good,	retail,	biology,	political	sciences,	etc.
+
+
+## Submission
+
+
+## Program
+TBA
+
+## Accepted Papers
+TBA
+
+## Organizers
+Sandra	Mitrović, KU Leuven, Belgium
+Jochen De Weerdt, KU Leuven, Belgium
+Steven Skiena, Stony Brook University, NY, USA
+Huan Liu, Arizona State University, AZ, USA
+
+# Committee
+TBA
+
+## Venue
+Budva, Montenegro
+
+
+## Contact
+mailto: NMLA-WorldCIST@gmail.com
+
+<!---
 ### Header 3
 
 ```js
@@ -113,6 +160,9 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+-->
+
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
