@@ -1,8 +1,11 @@
-<!---
+
 ---
 layout: default
+
+title: Network Modeling, Learning and Analysis
 ---
 
+<!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -62,7 +65,7 @@ _List of topics (not exclusive)_:
 
 Submission: November 30, 2019 
 
-Notification: December 20, 2019
+Notification: December 29, 2019
 
 Camera-ready: January 8, 2020 (hard deadline because of Springer publishing deadlines)
 
@@ -94,7 +97,8 @@ Accepted full and short papers will be included in the workshop proceedings. In 
 Camera-ready version of accepted papers must include identification, e-mail and affiliation of the authors and it must be accompanied by the Consent to Publish form filled out, in a ZIP file, and uploaded at the conference management system.
 -->
 
-The workshop proceedings will be published by Springer in a book of the AISC series. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, EI-Compendex among several other scientific databases. Extended versions of best selected papers will be published in journals indexed by ISI/SCI, SCOPUS and DBLP. Detailed and up-to-date information may be found at WorldCist'20 website: http://www.worldcist.org/
+The workshop proceedings will be published by Springer in a book of the AISC series. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, EI-Compendex among several other scientific databases. Extended versions of best selected papers will be published in journals indexed by ISI/SCI, SCOPUS and DBLP. Detailed and up-to-date information may be found at WorldCist'20 website:
+[http://www.worldcist.org](http://www.worldcist.org/)
 
 
 ## Program
@@ -146,11 +150,12 @@ TBA
 Budva, Montenegro
 
 NMLA 2020 (and WorldCIST'20) will take place at 5-star Hotel Splendid Conference & SPA Resort, located in Bečići – a picturesque bay with the cleanest waters, surrounded by a coniferous forest and beautiful mountains. A seaside promenade connects it with Budva, the old town, while its restaurants and nightclubs are only 2 km away.
-For more information see: http://www.worldcist.org/index.php/venue)
+For more information see: [http://www.worldcist.org/index.php/venue](http://www.worldcist.org/index.php/venue/)
 
 
 ## Contact
-E-mail: NMLA-WorldCIST@gmail.com
+E-mail: <a href="mailto:NMLA-WorldCIST@gmail.com">NMLA-WorldCIST@gmail.com</a>
+
 
 <!---
 ### Header 3
