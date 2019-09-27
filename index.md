@@ -70,7 +70,7 @@ Workshop date: TBD
 
 Conference dates: April 7-10, 2020
 
-## Submission
+## <a name="Submission"></a> Submission
 
 Two types of papers can be submitted to NMLA workshop (both will be published at the Springer AISC proceedings):
 
@@ -113,7 +113,7 @@ Steven Skiena, Stony Brook University, NY, USA
 
 Huan Liu, Arizona State University, AZ, USA
 
-# Committee
+## Committee
 <!---
 Rémy Cazabet,	Université	de	Lyon,	France
 -->
