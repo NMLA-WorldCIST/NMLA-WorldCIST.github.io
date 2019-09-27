@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 -->
 
-## <a name="overview"></a> Overview
+## <a name="Overview"></a> Overview
 
 <!---
 > This is a blockquote following a header.
@@ -58,7 +58,7 @@ _List of topics (not exclusive)_:
 
 * Case studies and empirical studies in different	application	areas, e.g.	telco, finance, IoT, social	media, social	good,	retail,	biology,	political	sciences,	etc.
 
-## <a name="important-dates"></a> Important Dates
+## <a name="Important Dates"></a> Important Dates
 
 Submission: November 30, 2019 
 
@@ -98,13 +98,13 @@ The workshop proceedings will be published by Springer in a book of the AISC ser
 [http://www.worldcist.org](http://www.worldcist.org/)
 
 
-## <a name="program"></a> Program
+## <a name="Program"></a> Program
 TBA
 
-## <a name="accepted-papers"></a> Accepted Papers
+## <a name="Accepted Papers"></a> Accepted Papers
 TBA
 
-## <a name="organizers"></a> Organizers
+## <a name="Organizers"></a> Organizers
 Sandra	Mitrović, KU Leuven, Belgium
 
 Jochen De Weerdt, KU Leuven, Belgium
@@ -113,7 +113,7 @@ Steven Skiena, Stony Brook University, NY, USA
 
 Huan Liu, Arizona State University, AZ, USA
 
-## <a name="committee"></a> Committee
+## <a name="Committee"></a> Committee
 <!---
 Rémy Cazabet,	Université	de	Lyon,	France
 -->
@@ -143,14 +143,14 @@ Sanja	Brdar,	University	of	Novi	Sad,	Serbia
 -->
 TBA
 
-## <a name="venue"></a> Venue
+## <a name="Venue"></a> Venue
 Budva, Montenegro
 
 NMLA 2020 (and WorldCIST'20) will take place at 5-star Hotel Splendid Conference & SPA Resort, located in Bečići – a picturesque bay with the cleanest waters, surrounded by a coniferous forest and beautiful mountains. A seaside promenade connects it with Budva, the old town, while its restaurants and nightclubs are only 2 km away.
 For more information see: [http://www.worldcist.org/index.php/venue](http://www.worldcist.org/index.php/venue/)
 
 
-## <a name="contact"></a> Contact
+## <a name="Contact"></a> Contact
 E-mail: <a href="mailto:NMLA-WorldCIST@gmail.com">NMLA-WorldCIST@gmail.com</a>
 
 
