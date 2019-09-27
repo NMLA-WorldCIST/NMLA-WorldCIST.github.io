@@ -1,8 +1,6 @@
 
 ---
 layout: default
-
-title: Network Modeling, Learning and Analysis
 ---
 
 <!---
