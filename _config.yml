@@ -5,6 +5,6 @@ author: Sandra Mitrovic
 email: NMLA-WorldCIST@gmail.com
 show_downloads: true
 image: 
-    background: url('/Becici-Budva.jpg')
+    background: Becici-Budva.jpg
 google_analytics:
 theme: jekyll-theme-cayman
