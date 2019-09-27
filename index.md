@@ -36,9 +36,9 @@ _List of topics (not exclusive)_:
 
 * Discovering	interesting	patterns/roles in	the	networks
 
-* Algorithms and methods for analyzing attributed/heterogeneous/signed/multiplex and knowledge networks	
+* Algorithms and methods for analyzing attributed/heterogeneous/signed/multiplex networks and knowledge graphs	
 
-* Network	clustering methods and	applications
+* Network	clustering methods and applications
 
 * Network	representation learning methods	and	applications
 
@@ -99,7 +99,11 @@ The workshop proceedings will be published by Springer in a book of the AISC ser
 
 
 ## <a name="Program"></a> Program
-TBA
+
+More detailed information on workshop program will follow.
+
+For the information on NMLA'20 (and WorldCIST'20) venue see: [http://www.worldcist.org/index.php/venue](http://www.worldcist.org/index.php/venue/)
+
 
 ## <a name="Accepted Papers"></a> Accepted Papers
 TBA
@@ -112,6 +116,11 @@ Jochen De Weerdt, KU Leuven, Belgium
 Steven Skiena, Stony Brook University, NY, USA
 
 Huan Liu, Arizona State University, AZ, USA
+
+
+
+**Contact: <a href="mailto:NMLA-WorldCIST@gmail.com">NMLA-WorldCIST@gmail.com</a>**
+
 
 ## <a name="Committee"></a> Committee
 <!---
@@ -143,18 +152,11 @@ Sanja	Brdar,	University	of	Novi	Sad,	Serbia
 -->
 TBA
 
+<!---
 ## <a name="Venue"></a> Venue
 Budva, Montenegro
-
-NMLA 2020 (and WorldCIST'20) will take place at 5-star Hotel Splendid Conference & SPA Resort, located in Bečići – a picturesque bay with the cleanest waters, surrounded by a coniferous forest and beautiful mountains. A seaside promenade connects it with Budva, the old town, while its restaurants and nightclubs are only 2 km away.
-For more information see: [http://www.worldcist.org/index.php/venue](http://www.worldcist.org/index.php/venue/)
-
-
 ## <a name="Contact"></a> Contact
-E-mail: <a href="mailto:NMLA-WorldCIST@gmail.com">NMLA-WorldCIST@gmail.com</a>
 
-
-<!---
 ### Header 3
 
 ```js
