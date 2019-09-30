@@ -1,9 +1,9 @@
 title: Network Modeling, Learning and Analysis (NMLA)
-description: WorldCIST2020 Workshop, Budva, Montenegro
+description: WorldCIST2020 Workshop (Budva, Montenegro)
 url: 'https://NMLA-WorldCIST.github.io/'
 author: Sandra Mitrovic
 email: NMLA-WorldCIST@gmail.com
 show_downloads: true
-background-image: 'https://nmla-worldcist.github.io/images/Becici-Budva.jpg'
-google_analytics:
+background-image: url(/images/Becici-Budva.jpg)
+google_analytics: 'UA-148963558-1'
 theme: jekyll-theme-cayman
