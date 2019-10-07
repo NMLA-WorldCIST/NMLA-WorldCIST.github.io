@@ -99,7 +99,7 @@ Camera-ready version of accepted papers must include identification, e-mail and 
 The workshop proceedings will be published in Proceedings by Springer. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, among others, and will be available in the SpringerLink Digital Library. Detailed and up-to-date information may be found at WorldCist'20 website:
 [http://www.worldcist.org](http://www.worldcist.org/)
 
-To submit or upload a paper please go to: [Workshop Submissions] (https://easychair.org/conferences/?conf=worldcistworkshops2020)
+To submit or upload a paper please go to: [EasyChair Workshop Submissions](https://easychair.org/conferences/?conf=worldcistworkshops2020)
 
 
 ## <a name="Program"></a> Program
