@@ -78,7 +78,7 @@ Three types of papers can be submitted to NMLA workshop:
 
 * Short papers: Finished or consolidated R&D works and also ongoing work but with relevant preliminary results, open to discussion. These papers are assigned a 7-page limit.
 
-* Demo/visionary/insightful (potentially previously published) papers with a 4-page limit.
+* Demo/visionary/insightful (potentially previously published) papers with a 3-page limit.
 
 **Please note that only full and short papers could be published at the Springer AISC proceedings. Demo/visionary/insightful (potentially previously published) papers will only be considered as poster presentations.**
 
