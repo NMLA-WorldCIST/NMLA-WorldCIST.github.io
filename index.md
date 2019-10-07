@@ -127,19 +127,31 @@ Huan Liu, Arizona State University, AZ, USA
 
 
 ## <a name="Committee"></a> Committee
-<!---
+
 Davide	Mottin,	Aarhus	University,	Denmark
+
 Hocine	Cherifi,	University	of	Burgundy,	France
+
 Leto	Peel,	Université	Catholique	de	Louvain, Belgium
+
 Martin	Atzmueller,	Tilburg	University,	The	Netherlands
+
 Mohammad	Al	Hasan,	Purdue	University,	IN,	USA
+
 Rémy Cazabet,	Université	de	Lyon,	France
+
 Roy	Ka-Wei	Lee,	University	of	Saskatchewan,	Canada
+
 Roya	Imani	Giglou,	KU	Leuven,	Belgium
+
 Sanja	Brdar,	University	of	Novi	Sad, Serbia
+
+<!---
 Sanja	Šćepanović,	Bell Labs	Cambridge, UK	
-Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 -->
+Zhana	Kuncheva,	C4X	Discovery,	London,	UK
+
+TBA
 
 <!---
 Huijuan	Wang,	Delft	University	of	Technology,	The	Netherlands
