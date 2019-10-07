@@ -72,30 +72,34 @@ Conference dates: April 7-10, 2020
 
 ## <a name="Submission"></a> Submission
 
-Two types of papers can be submitted to NMLA workshop (both will be published at the Springer AISC proceedings):
+Three types of papers can be submitted to NMLA workshop: 
 
 * Full papers: Finished or consolidated R&D works. These papers are assigned a 10-page limit.
 
 * Short papers: Finished or consolidated R&D works and also ongoing work but with relevant preliminary results, open to discussion. These papers are assigned a 7-page limit.
 
-Submissions must be in PDF, written in English and must follow the formatting rules for Proceedings in Advances in Intelligent Systems and Computing Series (see Instructions for Authors at Springer Website).
+* Demo/visionary/insightful (potentially previously published) papers with a 4-page limit.
+
+**Please note that only full and short papers could be published at the Springer AISC proceedings. Demo/visionary/insightful (potentially previously published) papers will only be considered as poster presentations.**
+
+All submissions must be in PDF, written in English and must follow the formatting rules for Proceedings in Advances in Intelligent Systems and Computing Series (see [Instructions for Authors at Springer Website](https://www.springer.com/us/authors-editors/conference-proceedings/conference-proceedings-guidelines)).
 
 <!---
 The version of papers for evaluation by the Program Committee, saved in PDF format, must not include identification, e-mail and affiliation of the authors. This information must only be available in the camera-ready version of accepted papers, saved in Word or Latex format and also in PDF format. 
-
-To submit or upload a paper please go to: 
 -->
 
 
-All workshop papers will have three independent blind reviews or in special cases two independent, non-conflicting and detailed reviews.
+All submissions will have three independent or in special cases two independent, non-conflicting and detailed reviews by the Program Committee members. The version of papers for evaluation by the Program Committee, saved in PDF format, must not include identification, e-mail and affiliation of the authors. This information must only be available in the camera-ready version of accepted papers, saved in Word or Latex format and also in PDF format. These files must be accompanied by the [Consent to Publish form](http://www.worldcist.org/copyright.pdf) filled out, in a ZIP file, and uploaded at the conference management system.
 
-Accepted full and short papers will be included in the workshop proceedings. In order to be published, as in the main conference, workshop papers must be registered and presented at the conference. 
+In order to be published in the workshop proceedings, accepted full and short workshop papers must be registered and presented at the workshop. 
 <!---
 Camera-ready version of accepted papers must include identification, e-mail and affiliation of the authors and it must be accompanied by the Consent to Publish form filled out, in a ZIP file, and uploaded at the conference management system.
 -->
 
-The workshop proceedings will be published by Springer in a book of the AISC series. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, EI-Compendex among several other scientific databases. Extended versions of best selected papers will be published in journals indexed by ISI/SCI, SCOPUS and DBLP. Detailed and up-to-date information may be found at WorldCist'20 website:
+The workshop proceedings will be published in Proceedings by Springer. Proceedings will be submitted for indexation by ISI Thomson, SCOPUS, DBLP, among others, and will be available in the SpringerLink Digital Library. Detailed and up-to-date information may be found at WorldCist'20 website:
 [http://www.worldcist.org](http://www.worldcist.org/)
+
+To submit or upload a paper please go to: [Workshop Submissions] (https://easychair.org/conferences/?conf=worldcistworkshops2020)
 
 
 ## <a name="Program"></a> Program
@@ -124,31 +128,31 @@ Huan Liu, Arizona State University, AZ, USA
 
 ## <a name="Committee"></a> Committee
 <!---
+Davide	Mottin,	Aarhus	University,	Denmark
+Hocine	Cherifi,	University	of	Burgundy,	France
+Leto	Peel,	Université	Catholique	de	Louvain, Belgium
+Martin	Atzmueller,	Tilburg	University,	The	Netherlands
+Mohammad	Al	Hasan,	Purdue	University,	IN,	USA
 Rémy Cazabet,	Université	de	Lyon,	France
+Roy	Ka-Wei	Lee,	University	of	Saskatchewan,	Canada
+Roya	Imani	Giglou,	KU	Leuven,	Belgium
+Sanja	Brdar,	University	of	Novi	Sad, Serbia
+Sanja	Šćepanović,	Bell Labs	Cambridge, UK	
+Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 -->
 
 <!---
 Huijuan	Wang,	Delft	University	of	Technology,	The	Netherlands
-Mohammad	Al	Hasan,	Purdue	University,	IN,	USA
 Eric	Cambria,	Nanyang	Technoological	University,	Singapore
 Aleksandar	Bojchevski,	Technical	University	Munich,	Germany
-Roy	Ka-Wei	Lee,	University	of	Saskatchewan,	Canada
-Martin	Atzmueller,	Tilburg	University,	The	Netherlands
-Leto	Peel,	Univesite	Catholique	de	Louvain,	Belgium
 Brian	Keegan,	University	of	Colorado	Boulder,	CO,	USA
 Palash	Goyal,	University	of	Southern	California,	CA,	USA
 Barbara	Poblete,	University	of		Chile,	Chile
-Davide	Mottin,	Aarhus	University,		Denmark
 Aris	Anagnostopoulos,	Sapienza	University	of	Rome,	Italy
 Jan	Ramon,	INRIA,	France
-Hocine	Cherifi,	University	of	Burgundy,	France
 Polina	Rosenshtein,	Aalto	University,	Finland
 Junting	Ye, Facebook,	CA,	USA
 Nicolas	Kourtellis,	Telefonica	Research,	Spain
-Sanja	Šćepanović,	Bell Labs	Cambridge,	UK	
-Zhana	Kuncheva,	C4X	Discovery,	London,	UK
-Roya	Imani	Giglou,	KU	Leuven,	Belgium
-Sanja	Brdar,	University	of	Novi	Sad,	Serbia
 -->
 TBA
 
