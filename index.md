@@ -166,7 +166,6 @@ Polina	Rosenshtein,	Aalto	University,	Finland
 Junting	Ye, Facebook,	CA,	USA
 Nicolas	Kourtellis,	Telefonica	Research,	Spain
 -->
-TBA
 
 <!---
 ## <a name="Venue"></a> Venue
