@@ -132,6 +132,8 @@ Davide	Mottin,	Aarhus	University,	Denmark
 
 Hocine	Cherifi,	University	of	Burgundy,	France
 
+Junting Ye, Facebook, WA, USA
+
 Leto	Peel,	Université	Catholique	de	Louvain, Belgium
 
 Martin	Atzmueller,	Tilburg	University,	The	Netherlands
@@ -143,6 +145,8 @@ Rémy Cazabet,	Université	de	Lyon,	France
 Roy	Ka-Wei	Lee,	University	of	Saskatchewan,	Canada
 
 Roya	Imani	Giglou,	KU	Leuven,	Belgium
+
+Sabrina Gaito, Università degli Studi di Milano, Italy
 
 Sanja	Brdar,	University	of	Novi	Sad, Serbia
 
