@@ -9,6 +9,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 -->
 
+Submission date: November 30, 2019 (AoE)
+
+Submission link: [EasyChair Workshop Submissions](https://easychair.org/conferences/?conf=worldcistworkshops2020)
+
+
 ## <a name="Overview"></a> Overview
 
 <!---
