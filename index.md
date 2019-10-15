@@ -137,6 +137,8 @@ Aravind Sankar, University of Illinois Urbana-Champaign, IL, USA
 
 Davide	Mottin,	Aarhus	University,	Denmark
 
+Federico	Battiston, Central European University, Hungary
+
 Hocine	Cherifi,	University	of	Burgundy,	France
 
 Junting Ye, Facebook, WA, USA
@@ -163,23 +165,11 @@ Sanja	Šćepanović,	Bell Labs	Cambridge, UK
 
 Tyler Derr, Michigan State University, MI, USA
 
+Wouter Verbeke, Vrije Universiteit Brussel, Belgium
+
 Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 
 TBA
-
-<!---
-Huijuan	Wang,	Delft	University	of	Technology,	The	Netherlands
-Eric	Cambria,	Nanyang	Technoological	University,	Singapore
-Aleksandar	Bojchevski,	Technical	University	Munich,	Germany
-Brian	Keegan,	University	of	Colorado	Boulder,	CO,	USA
-Palash	Goyal,	University	of	Southern	California,	CA,	USA
-Barbara	Poblete,	University	of		Chile,	Chile
-Aris	Anagnostopoulos,	Sapienza	University	of	Rome,	Italy
-Jan	Ramon,	INRIA,	France
-Polina	Rosenshtein,	Aalto	University,	Finland
-Junting	Ye, Facebook,	CA,	USA
-Nicolas	Kourtellis,	Telefonica	Research,	Spain
--->
 
 <!---
 ## <a name="Venue"></a> Venue
