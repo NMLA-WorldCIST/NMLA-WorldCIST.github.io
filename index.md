@@ -133,6 +133,8 @@ Huan Liu, Arizona State University, AZ, USA
 
 ## <a name="Committee"></a> Committee
 
+Aleksandar Bojchevski, Technical University of Munich, Germany
+
 Aravind Sankar, University of Illinois Urbana-Champaign, IL, USA
 
 Davide	Mottin,	Aarhus	University,	Denmark
