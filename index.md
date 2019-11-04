@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 -->
 
-Submission date: November 30, 2019 (AoE)
+Submission date: ~~November 30, 2019 (AoE)~~ December 7th, 2019 (AoE)
 
 Submission link: [EasyChair Workshop Submissions](https://easychair.org/conferences/?conf=worldcistworkshops2020)
 
@@ -65,7 +65,7 @@ _List of topics (not exclusive)_:
 
 ## <a name="Important Dates"></a> Important Dates
 
-Submission: November 30, 2019 
+Submission: ~~November 30, 2019~~ December 7th, 2019 (AoE)
 
 Notification: December 29, 2019
 
@@ -167,7 +167,7 @@ Sanja	Šćepanović,	Bell Labs	Cambridge, UK
 
 Tyler Derr, Michigan State University, MI, USA
 
-Wouter Verbeke, Vrije Universiteit Brussel, Belgium
+<!--- Wouter Verbeke, Vrije Universiteit Brussel, Belgium -->
 
 Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 
