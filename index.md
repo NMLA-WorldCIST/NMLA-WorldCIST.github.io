@@ -9,10 +9,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 -->
 
+<!---
 Submission date: ~~November 30, 2019 (AoE)~~ December 7th, 2019 (AoE)
 
 Submission link: [EasyChair Workshop Submissions](https://easychair.org/conferences/?conf=worldcistworkshops2020)
+-->
 
+Workshop date: April 9th, 2020
 
 ## <a name="Overview"></a> Overview
 
@@ -71,7 +74,7 @@ Notification: December 29, 2019
 
 Camera-ready: January 8, 2020 (hard deadline because of Springer publishing deadlines)
 
-Workshop date: TBD
+Workshop date: Thursday, April 9th, 2020
 
 Conference dates: April 7-10, 2020
 
@@ -115,7 +118,19 @@ For the information on NMLA'20 (and WorldCIST'20) venue see: [http://www.worldci
 
 
 ## <a name="Accepted Papers"></a> Accepted Papers
-TBA
+
+1) **Metadata Action Network Model for Cloud Based Development Environment**, _Mehmet N Aydin, Ziya N. Perdahci, Ilker Şafak and Jos Van Hillegersberg_
+
+2) **Clustering Foursquare Mobility Networks to Explore Urban Spaces**, _Olivera Novović, Nastasija Grujić, Sanja Brdar, Miro Govedarica and Vladimir Crnojević_
+
+3) **Open and closed triads in distributed online social networks**, _Cheick Tidiane Ba, Matteo Zignani, Sabrina Gaito and Gian Paolo Rossi_
+
+4) **A Comparative Study of Representation Learning Techniques for Dynamic Networks**, _Carlos Ortega Vazquez, Sandra Mitrović, Jochen De Weerdt and Seppe Vanden Broucke_
+
+5) **Finding Influential Nodes in Networks with Community Structure**, _Zakariya Ghalmane, Stephany Rajeh, Chantal Cherifi, Hocine Cherifi and Mohammed El Hassouni_
+
+6) **The trilogy of algorithms for network embedding in the hyperbolic space**, _Carlo Vittorio Cannistraci_
+
 
 ## <a name="Organizers"></a> Organizers
 Sandra	Mitrović, KU Leuven, Belgium
