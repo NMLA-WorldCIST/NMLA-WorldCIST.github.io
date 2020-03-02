@@ -182,7 +182,7 @@ Sanja	Šćepanović,	Bell Labs	Cambridge, UK
 
 Tyler Derr, Michigan State University, MI, USA
 
-<!--- Wouter Verbeke, Vrije Universiteit Brussel, Belgium -->
+Wouter Verbeke, Vrije Universiteit Brussel, Belgium
 
 Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 
