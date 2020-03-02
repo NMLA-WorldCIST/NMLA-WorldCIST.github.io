@@ -15,7 +15,7 @@ Submission date: ~~November 30, 2019 (AoE)~~ December 7th, 2019 (AoE)
 Submission link: [EasyChair Workshop Submissions](https://easychair.org/conferences/?conf=worldcistworkshops2020)
 -->
 
-Workshop date: April 9th, 2020
+**Workshop date: April 9th, 2020**
 
 ## <a name="Overview"></a> Overview
 
@@ -74,7 +74,7 @@ Notification: December 29, 2019
 
 Camera-ready: January 8, 2020 (hard deadline because of Springer publishing deadlines)
 
-Workshop date: Thursday, April 9th, 2020
+**Workshop date: Thursday, April 9th, 2020**
 
 Conference dates: April 7-10, 2020
 
