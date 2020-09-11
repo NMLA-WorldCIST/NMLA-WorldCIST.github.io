@@ -188,8 +188,8 @@ Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 
 TBA
 
-![Branching](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
-![Octocat](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
+![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
+![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
 
 <!---
 ## <a name="Venue"></a> Venue
