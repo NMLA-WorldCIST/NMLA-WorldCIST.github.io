@@ -189,7 +189,7 @@ Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 TBA
 
 <footer>
-<h5> <img src="images/Presentation1.png" </h5>
+<h5> <img src="images/Presentation1.png"> </h5>
      </footer>
 
 [NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/images/Presentation1.png)
