@@ -192,9 +192,6 @@ TBA
 <h5> <img src="images/Presentation1.png"> </h5>
      </footer>
 
-[NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/images/Presentation1.png)
-![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
-
 <!---
 ## <a name="Venue"></a> Venue
 Budva, Montenegro
