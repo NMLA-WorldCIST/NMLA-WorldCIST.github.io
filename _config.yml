@@ -4,6 +4,6 @@ url: 'https://NMLA-WorldCIST.github.io/'
 author: Sandra Mitrovic
 email: NMLA-WorldCIST@gmail.com
 show_downloads: true
-background-image: https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/images/Becici-Budva.jpg
+background-image: images/Becici-Budva.jpg
 google_analytics: 'UA-148963558-1'
 theme: jekyll-theme-cayman
