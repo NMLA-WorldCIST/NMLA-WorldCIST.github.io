@@ -188,7 +188,7 @@ Zhana	Kuncheva,	C4X	Discovery,	London,	UK
 
 TBA
 
-![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
+![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/edit/master/images/Presentation1.png)
 ![NeEDS](https://github.com/NMLA-WorldCIST/NMLA-WorldCIST.github.io/blob/master/Presentation1.png)
 
 <!---
